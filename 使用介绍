@@ -1,0 +1,30 @@
+使用描述：
+win：
+    1.idea工具file--setting--version_control-Git
+    2.选择git安装路径/bin目录下git可执行文件
+    3.保存即可G
+    4.git-hub上传自己项目
+        1.idea工具栏-VCS--import to version control--share project in Github
+        2.按步骤完成即可，出现问题时：
+            建立 .gitconfig 文件
+
+            开始 - cmd - enter
+            DOS
+            d:
+            cd (change directory)
+            D:\0\PortableGit\bin>（git可执行文件路径）
+
+            git config --global user.email = your github email
+            git config -- global user.name = you github username
+
+    5.提交时不上传文件配置：.gitignore 例如：不上传.idea 结尾文件
+    6.从 GitHub 检出项目
+
+          复制项目 HTTPS 地址
+          VCS - Checkout from Version Control - GitHUb
+          粘贴地址到 Git Repository URL
+          Clone
+          根据向导在本地建立项目
+
+    7.ctrl+k 上传
+    8.ctrl + t 下载
