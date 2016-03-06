@@ -28,3 +28,7 @@ win：
 
     7.ctrl+k 上传
     8.ctrl + t 下载
+    
+mac:
+    idea安装好后默认的git是osx自带的那个git，版本应该比较久，而且打开会弹出一个什么Xcode的提示框，
+    所以还是去官方下载最新的git并安装吧，安装后git的路径为/usr/local/git/bin/git在idea中配置好就可以使用了。
