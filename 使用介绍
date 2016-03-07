@@ -26,8 +26,8 @@ win：
           Clone
           根据向导在本地建立项目
 
-    7.ctrl+k 上传
-    8.ctrl + t 下载
+    7.ctrl+k 提交本地变更内容
+    8.ctrl + t 同步github上文件
     
 mac:
     idea安装好后默认的git是osx自带的那个git，版本应该比较久，而且打开会弹出一个什么Xcode的提示框，
